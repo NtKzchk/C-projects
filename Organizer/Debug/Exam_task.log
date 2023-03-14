@@ -1,0 +1,27 @@
+﻿  Birthday.cpp
+  BusinessMeeting.cpp
+  Event.cpp
+  main.cpp
+  Organizer.cpp
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(113,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(125,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(157,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(159,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(170,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(179,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(197,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(303,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(315,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(324,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(333,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(342,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Organizer.cpp(351,20): warning C4018: <: несоответствие типов со знаком и без знака
+  PersonalMeeting.cpp
+  VisitToSpecialist.cpp
+  Создание кода...
+  Exam_task.vcxproj -> C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Debug\Exam_task.exe

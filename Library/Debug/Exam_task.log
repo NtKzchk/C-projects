@@ -1,0 +1,17 @@
+﻿  books.cpp
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\books.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+  b_and_r.cpp
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(103,49): warning C4244: =: преобразование "time_t" в "long", возможна потеря данных
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(146,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(223,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\b_and_r.cpp(273,17): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  main.cpp
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  readers.cpp
+  Создание кода...
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\readers.cpp(217): warning C4715: search_Reader_by_id: значение возвращается не при всех путях выполнения
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\readers.cpp(230): warning C4715: search_Reader_by_passport: значение возвращается не при всех путях выполнения
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\readers.cpp(204): warning C4715: search_Reader_by_full_name: значение возвращается не при всех путях выполнения
+  Exam_task.vcxproj -> C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\1 семестр\С++\Exam_task\Debug\Exam_task.exe

@@ -1,0 +1,6 @@
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\2 семестр\ООП С++\Exam_task\Debug\Exam_task.exe
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\2 семестр\ООП С++\Exam_task\Debug\Exam_task.pdb
+C:\Users\anyko\OneDrive\Рабочий стол\Exam_task\Debug\Exam_task.exe
+C:\Users\anyko\OneDrive\Рабочий стол\Exam_task\Debug\Exam_task.pdb
+C:\Users\anyko\OneDrive\Рабочий стол\ШАГ\2 семестр\С++\ООП С++ 2 семестр\Exam_task\Debug\Exam_task.exe
+C:\Users\anyko\OneDrive\Рабочий стол\С++_Projects\Organaizer\Debug\Exam_task.exe

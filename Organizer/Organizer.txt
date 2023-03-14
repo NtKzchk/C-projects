@@ -1,0 +1,43 @@
+Vasya
+Business meeting
+2|10|2021|15|15|Medium|3|0668274927|Irina|Kozak|
+Personal meeting
+1|10|2021|10|50|High|5|0502735284|Borya|meeting with a business partner|
+Birthday
+1|10|2021|18|0|High|4|0507729364|Sveta|Lobodina|
+Business meeting
+9|10|2021|10|0|High|1|0503648231|Danil|Polyak|
+Personal meeting
+1|10|2021|16|20|Medium|1|0936182736|Petya|meeting with a friend|
+Birthday
+20|10|2021|13|30|Low|1|0957283943|Vasya|Pupkin|
+Visit to specialist
+13|10|2021|14|25|High|4|0667352746|surgeon|Polina|Gregory|
+Business meeting
+15|10|2021|10|35|High|4|0993746283|Vasya|Kozak|
+Business meeting
+21|10|2021|13|15|Low|1|0503647253|Nadya|Adamenko|
+Birthday
+3|11|2021|16|40|Medium|2|0668274927|Kolya|Sichkin|
+Visit to specialist
+17|10|2021|17|0|Low|2|0503628593|otolaryngologist|Kira|Koswar|
+Visit to specialist
+23|10|2021|14|50|High|3|0507394725|lawyer|Sasha|Pupkin|
+Visit to specialist
+30|10|2021|8|10|Low|1|0993548263|notary|Petya|Lyashenko|
+Personal meeting
+12|10|2021|9|0|Medium|2|0995472836|Anna|interviews|
+Business meeting
+11|10|2021|19|15|Low|3|0503748253|Denis|Semenenko|
+Personal meeting
+21|10|2021|14|20|Low|3|0667362846|Petya|meeting with a friend|
+Visit to specialist
+6|10|2021|12|40|High|3|0503628462|dentist|Vasya|Varenik|
+Visit to specialist
+4|10|2021|11|10|High|2|0993628452|surgeon|Oleg|Minkov|
+Personal meeting
+2|10|2021|18|20|Medium|3|0996452364|Sasha|meeting with a friend|
+Visit to specialist
+14|10|2021|16|10|Medium|3|0667394519|otolaryngologist|Kira|Kosovets|
+Visit to specialist
+29|10|2021|13|0|High|2|0992538192|lawyer|Sasha|Pupkin|
